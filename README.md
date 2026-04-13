@@ -6,6 +6,7 @@ Central documentation hub for all active Hybrid RobotiX projects.
 
 | Project | Description |
 |---|---|
+| [Arduino](./Arduino/README.md) | Board references, libraries, coding standards, hardware map |
 | [HybX Development System](./HybX-Development-System/README.md) | CLI toolchain, bin commands, VSCode extension |
 | [SecureSMARS](./SecureSMARS/README.md) | Sensor-rich autonomous robot platform |
 | [My Chairiet Platform](./My-Chairiet-Platform/README.md) | Distributed computing platform on power wheelchair |
