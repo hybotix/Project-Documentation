@@ -14,6 +14,8 @@ Central reference for all Arduino hardware, libraries, and development standards
 | [Nano-33-BLE-Sense-Rev2/](./Nano-33-BLE-Sense-Rev2/README.md) | Arduino Nano 33 BLE Sense Rev2 | Nordic nRF52840 | Unassigned — Edge ML candidate |
 | [Nano-RP2040-Connect/](./Nano-RP2040-Connect/README.md) | Arduino Nano RP2040 Connect | RP2040 (dual M0+) | Unassigned |
 | [Nano-ESP32/](./Nano-ESP32/README.md) | Arduino Nano ESP32 | ESP32-S3 | Unassigned |
+| [Nano-Matter/](./Nano-Matter/README.md) | Arduino Nano Matter | Silicon Labs MGM240S (M33) | Planned — Matter/Thread sensor node |
+| [Nano-R4/](./Nano-R4/README.md) | Arduino Nano R4 | TBD | Planned — pending board confirmation |
 
 ## Reference Documents
 
